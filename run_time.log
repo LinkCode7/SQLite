@@ -1,0 +1,84 @@
+
+ 总计：282ms
+Insert 1000 row: 279ms
+select * from component: 1ms
+select com_id from component: 0ms
+
+
+预编译(prepared statement)：插入100000条记录 总计：1017ms
+
+预编译(prepared statement)：更新100000条记录 总计：499ms
+
+预编译(prepared statement)：select100000次 总计：348ms
+
+COUNT：填充0个元素 总计：0ms
+
+ 总计：419ms
+Insert 1000 row: 416ms
+select * from component: 1ms
+select com_id from component: 0ms
+
+
+预编译(prepared statement)：插入100000条记录 总计：941ms
+
+预编译(prepared statement)：更新100000条记录 总计：477ms
+
+预编译(prepared statement)：select100000次 总计：344ms
+
+COUNT：填充0个元素 总计：32451ms
+
+ 总计：24399ms
+Insert 1000 row: 24392ms
+select * from component: 3ms
+select com_id from component: 2ms
+
+
+预编译(prepared statement)：插入100000条记录 总计：975ms
+
+预编译(prepared statement)：更新100000条记录 总计：499ms
+
+预编译(prepared statement)：select100000次 总计：346ms
+
+COUNT：填充0个元素 总计：3051ms
+
+ 总计：3795ms
+Insert 1000 row: 3791ms
+select * from component: 1ms
+select com_id from component: 0ms
+
+
+预编译(prepared statement)：插入100000条记录 总计：966ms
+
+预编译(prepared statement)：更新100000条记录 总计：499ms
+
+预编译(prepared statement)：select100000次 总计：352ms
+
+COUNT：填充1000个元素 总计：0ms
+
+ 总计：203ms
+Insert 1000 row: 200ms
+select * from component: 1ms
+select com_id from component: 0ms
+
+
+预编译(prepared statement)：插入100000条记录 总计：943ms
+
+预编译(prepared statement)：更新100000条记录 总计：489ms
+
+预编译(prepared statement)：select100000次 总计：322ms
+
+COUNT：填充1000个元素 总计：1ms
+
+ 总计：370ms
+Insert 1000 row: 366ms
+select * from component: 1ms
+select com_id from component: 1ms
+
+
+预编译(prepared statement)：插入100000条记录 总计：1151ms
+
+预编译(prepared statement)：更新100000条记录 总计：740ms
+
+预编译(prepared statement)：select100000次 总计：320ms
+
+COUNT：填充1000个元素 总计：1ms
